@@ -1,7 +1,7 @@
 [JQDesktop](http://jqdesktop.tk/)
 =========
 
-JQDesktop jQuery plugin
+JQDesktop jQuery plugin (Edit here... hello world)
 
 Copyright (C) 2013  ilyes kooli
 
